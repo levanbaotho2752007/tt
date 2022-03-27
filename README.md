@@ -1,4 +1,4 @@
-<h1> Xin chào, mình là 🍁JRT🍂 <img src="https://imgur.com/2G1cDEx.gif" width="25"></h1> 
+<h1> Xin chào, mình là 🍁RINNIKY🍂 <img src="https://imgur.com/2G1cDEx.gif" width="25"></h1> 
 
 <p align="center">
     <img align="center" alt="PNG" src="https://imgur.com/2G1cDEx.gif" />
